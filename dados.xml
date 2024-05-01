@@ -1,0 +1,72 @@
+<recompensas>
+    <opções>
+        <id>1</id>
+        <nome>8f drafter</nome>
+        <velocidade>rápido</velocidade>
+        <preço>$120,000</preço>
+        <categoria>esportivo</categoria>
+    </opções>
+    <opções>
+        <id>2</id>
+        <nome>inferno</nome>
+        <velocidade>mais ou menos</velocidade>
+        <preço>$150,000</preço>
+        <categoria>esportivo</categoria>
+    </opções>
+    <opções>
+        <id>3</id>
+        <nome>9f</nome>
+        <velocidade>lento</velocidade>
+        <preço>$90,000</preço>
+        <categoria>esportivo</categoria>
+    </opções>
+    <opções>
+        <id>4</id>
+        <nome>entity mt</nome>
+        <velocidade>muito rápido</velocidade>
+        <preço>$250,000</preço>
+        <categoria>super</categoria>
+    </opções>
+    <opções>
+        <id>5</id>
+        <nome>ignus</nome>
+        <velocidade>ultra rápido</velocidade>
+        <preço>$300,000</preço>
+        <categoria>super</categoria>
+    </opções>
+    <opções>
+        <id>6</id>
+        <nome>italy rxs</nome>
+        <velocidade>ultra rápido</velocidade>
+        <preço>$200,000</preço>
+        <categoria>esportivo</categoria>
+    </opções>
+    <opções>
+        <id>7</id>
+        <nome>ágassi xo</nome>
+        <velocidade>ultra rápido</velocidade>
+        <preço>$350,000</preço>
+        <categoria>super</categoria>
+    </opções>
+    <opções>
+        <id>8</id>
+        <nome>inferno classic</nome>
+        <velocidade>rápido</velocidade>
+        <preço>$180,000</preço>
+        <categoria>clássico</categoria>
+    </opções>
+    <opções>
+        <id>9</id>
+        <nome>zentorno</nome>
+        <velocidade>rápido</velocidade>
+        <preço>$200,000</preço>
+        <categoria>super</categoria>
+    </opções>
+    <opções>
+        <id>10</id>
+        <nome>t20</nome>
+        <velocidade>rápido</velocidade>
+        <preço>$220,000</preço>
+        <categoria>super</categoria>
+    </opções>
+</recompensas>
